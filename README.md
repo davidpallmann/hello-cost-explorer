@@ -4,7 +4,7 @@ This is the code project for the [Hello, Cost Explorer!](https://davidpallmann.h
 
 This episode: AWS Cost Explorer and cost analysis. In this Hello, Cloud blog series, we're covering the basics of AWS cloud services for newcomers who are .NET developers. If you love C# but are new to AWS, or to this particular service, this should give you a jumpstart.
 
-In this post we'll introduce AWS Cost Explorer and use it in a "Hello, Cloud" .NET program to perform query AWS charges. We'll do this step-by-step, making no assumptions other than familiarity with C# and Visual Studio. We're using Visual Studio 2022 and .NET 
+In this post we'll introduce AWS Cost Explorer and use it in a "Hello, Cloud" .NET program to query AWS charges. We'll do this step-by-step, making no assumptions other than familiarity with C# and Visual Studio. We're using Visual Studio 2022 and .NET 
 
 ## Our Hello, Cost Explorer Project
 
